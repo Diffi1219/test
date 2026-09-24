@@ -1,2 +1,6 @@
 hello world!
+<<<<<<< HEAD
 master！
+=======
+exp01!
+>>>>>>> exp01
